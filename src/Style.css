@@ -1,0 +1,49 @@
+.container{
+    border: 2px solid black;
+    width: 400px;
+    border-radius: 20px;
+    background-color: lightblue;
+}
+#component{
+    position: relative;
+    left: 700px;
+    
+}
+#functional{
+    position: relative;
+    top: 150px;
+    left: 40px;
+}
+p{
+    color: black;
+    text-align: center;
+}
+.but1{
+    background-color: lightblue;
+    height: 40px;
+    width: 350px;
+    margin-left: 150px;
+    border-radius: 15px;
+}
+.but2{
+    height: 40px;
+    width: 350px;
+    margin-left: 150px;
+    position:absolute;
+    top: 80px;
+    left: 500px;
+    background-color: lightblue;
+    border-radius: 15px;
+    
+
+}
+
+body{
+    background: linear-gradient(lightblue,lightpink,lightyellow);
+    height: 100vh;
+    
+}
+h1{
+    text-align: center;
+    text-shadow: 3px 3px 5px aqua;
+}
